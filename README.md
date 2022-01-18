@@ -9,3 +9,16 @@
 - Optimized Linear, Lasso and Random Forest Regressors using GridsearchCV to reach the best model
 
 ![](/Images/Wordcloud.png)
+
+
+## [Project 2: Titanic Dataset](https://github.com/MarlinMyrte/Titanic-Dataset)
+
+My submission for the Kaggle Titanic competition
+
+Accuracy 78.47% - Top 17%
+
+- Performed preprocessing on the dataset by parsing columns or creating new features
+- Performed Exploratory Data Analysis
+- Tested various Machine Learning models
+- Further tuned the models and created ensembles
+- Submitted the results
