@@ -7,3 +7,5 @@
 - The scraper collects by default 180 job listings from Glassdoor. After that limit, Glassdoor keeps repeating the same jobs listings.
 - Extracted keywords from the job description in order to quantify the value that each skill adds to the salary.
 - Optimized Linear, Lasso and Random Forest Regressors using GridsearchCV to reach the best model
+
+![](/Images/Wordcloud.png "Wordcloud")
