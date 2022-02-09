@@ -46,14 +46,14 @@ We also found out that teams perform better offensively in the first half mainly
 
 We discovered that there are teams which have a larger difference in their offensive performance in the first 2 minutes of each quarter compared to their offensive performance in the first 10 minutes of each quarter.
 
-![](/Images/Top Bottom diff.png)
+![](/Images/Top%20Bottom%20diff.png)
 
 **So what if this "2-minute slump" didn't exist? How would the standings be different?**
 **Eastern Conference**
-![](/Images/East Standings.png)
+![](/Images/East%20Standings.png)
 
 **Western Conference**
-![](/Images/West Standings.png)
+![](/Images/West%20Standings.png)
 
 In the Eastern Conference, we can see that the 76ers jumped a spot from the 3rd place to the 2nd place, the Bulls have 3 ties which could bring them down to the 2nd spot in the East and Charlotte dropped a spot to Toronto and is now 7th
 
