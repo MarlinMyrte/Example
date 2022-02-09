@@ -49,6 +49,7 @@ We discovered that there are teams which have a larger difference in their offen
 ![](/Images/Top%20Bottom%20diff.png)
 
 **So what if this "2-minute slump" didn't exist? How would the standings be different?**
+
 **Eastern Conference**
 ![](/Images/East%20Standings.png)
 
