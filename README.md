@@ -44,7 +44,7 @@ The statistical test confirms our initial hypothesis that there is a difference 
 
 But why does this happen? Is it affected by the pace of the game? Let's check the possessions per minute
 
-![](/Images/poss_ppm_avg.png)
+![](/Images/poss_pm_avg.png)
 
 We also found out that teams perform better offensively in the first half mainly because there are more possessions in the first half than in the second half.
 
