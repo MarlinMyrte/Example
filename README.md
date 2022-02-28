@@ -24,7 +24,7 @@ Accuracy 78.47% - Top 17%
 - Submitted the results
 
 
-## [Project 3: NBA: First minutes of a game](https://github.com/MarlinMyrte/First-Minutes)
+## [Project 3: NBA: First minutes of a game (Part 1)](https://github.com/MarlinMyrte/First-Minutes-Part-1)
 
 In this project I wanted to test something that I had observed while watching NBA Games. I noticed that during the first 2-3 minutes of each quarter, players seem more "relaxed" compared to the rest of the quarter and I wanted to check if my hypothesis is True or not
 
@@ -33,29 +33,19 @@ This project involved:
 - Cleaning the data and performing some feature engineering
 - Plotting results to check for patterns
 - Testing multiple statistical hypotheses
-- Applying What-If analysis to see how much the NBA standings would be different
 
 ### Results
 
 ![](/Images/ppm_avg.png)
 
-We can see that there is indeed a drop in the combined point production during the first minute of each quarter, however it bounces back fairly quickly
+We can see that there is indeed a drop in the combined point production during the first minutes of each quarter, however it bounces back fairly quickly.
+
 The statistical test confirms our initial hypothesis that there is a difference between the offensive performance during the first 2 minutes of each quarter.
+
+But why does this happen? Is it affected by the pace of the game? Let's check the possessions per minute
+
+![](/Images/poss_ppm_avg.png)
 
 We also found out that teams perform better offensively in the first half mainly because there are more possessions in the first half than in the second half.
 
-We discovered that there are teams which have a larger difference in their offensive performance in the first 2 minutes of each quarter compared to their offensive performance in the first 10 minutes of each quarter.
-
-![](/Images/Top%20Bottom%20diff.png)
-
-**So what if this "2-minute slump" didn't exist? How would the standings be different?**
-
-**Eastern Conference**
-![](/Images/East%20Standings.png)
-
-**Western Conference**
-![](/Images/West%20Standings.png)
-
-In the Eastern Conference, we can see that the 76ers jumped a spot from the 3rd place to the 2nd place, the Bulls have 3 ties which could bring them down to the 2nd spot in the East and Charlotte dropped a spot to Toronto and is now 7th
-
-In the Western Conference, the Los Angeles Clippers might drop 2 wins because of ties and that could bring them to the 9th place and to the play-in tournament while 2 potential wins in ties from the Kings could bring them to the 12th spot
+## Project 4: NBA: First minutes of a game (Part 2) - Coming Soon
