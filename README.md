@@ -58,6 +58,8 @@ We discovered that there are teams which have a larger difference in their offen
 
 Please note that the standings are as of February 28th 2022.
 
+![](/Images/Full_Standings.png)
+
 **Eastern Conference**
 
 ![](/Images/East%20Standings.png)
