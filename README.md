@@ -68,6 +68,6 @@ In the Eastern Conference, we can see that the 76ers jumped from the 3rd place t
 
 ![](/Images/West%20Standings.png)
 
-Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play in tournament
+Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play-in tournament
 
 ## Project 5: NBA: Predicting the winner of the Most Improved Award (Coming Soon)
