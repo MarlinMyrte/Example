@@ -64,4 +64,6 @@ In the Eastern Conference, we can see that the 76ers jumped from the 3rd place t
 
 Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play-in tournament
 
+**As we know, even small changes in the seeding of the teams might have a significant impact in determining the NBA Champion. Therefore, it is of high interest for the teams to try and tackle this "2 minute slump"**
+
 ## Project 5: NBA: Predicting the winner of the Most Improved Award (Coming Soon)
