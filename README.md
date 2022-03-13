@@ -60,13 +60,13 @@ Please note that the standings are as of February 28th 2022.
 
 **Eastern Conference**
 
-![](/Images/East%20Standings.png)
+photo
 
 In the Eastern Conference, we can see that the 76ers jumped from the 3rd place to the 2nd place which is something that could change a lot during the Playoffs and also the Wizards went up to the 10th place
 
 **Western Conference**
 
-![](/Images/West%20Standings.png)
+photo
 
 Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play-in tournament
 
