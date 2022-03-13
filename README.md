@@ -48,4 +48,22 @@ But why does this happen? Is it affected by the pace of the game? Let's check th
 
 We also found out that teams perform better offensively in the first half mainly because there are more possessions in the first half than in the second half.
 
-## Project 4: NBA: First minutes of a game (Part 2) - Coming Soon
+## [Project 4: NBA: First minutes of a game (Part 2)](https://github.com/MarlinMyrte/First-Minutes-Part-2)
+
+We discovered that there are teams which have a larger difference in their offensive performance in the first 2 minutes of each quarter compared to their offensive performance in the first 10 minutes of each quarter.
+
+![](/Images/Top%20Bottom%20diff.png)
+
+**So what if this "2-minute slump" didn't exist? How would the standings be different?**
+
+**Eastern Conference**
+![](/Images/East%20Standings.png)
+
+**Western Conference**
+![](/Images/West%20Standings.png)
+
+In the Eastern Conference, we can see that the 76ers jumped from the 3rd place to the 2nd place which is something that could change a lot during the Playoffs and also the Wizards went up to the 10th place
+
+Ιn the Western Conference, the Lakers moved up a spot and are in the playoff picture and the Clippers are in the play in tournament
+
+## Project 5: NBA: Predicting the winner of the Most Improved Award (Coming Soon)
