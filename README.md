@@ -89,7 +89,7 @@ And as for the regression approach:
 
 ![](/Images/reg_accuracies.png)
 
-And now the predictions:
+##### And now the predictions:
 
 **Classification**
 
